@@ -48,7 +48,7 @@ It does not use any backend technologies or database. All pages are static.
 <img src="MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 123759.png" width="600">
 
 ### Payment Gatway Page
-<img src="MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 124519" width="600">
+<img src="MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 124519.png" width="600">
 
 ### Contact Page
 <img src="MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 123927.png" width="600">
