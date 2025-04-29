@@ -33,7 +33,7 @@ It does not use any backend technologies or database. All pages are static.
 
 ## Screenshots
 ### Home Page
-![Home Page](MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 123706.png)
+<img src="MY%20PROJECTS/Screenshots/Screenshot 2024-04-02 123706.png" width="600">
 
 ### Login Page
 ![Login Page](MY%20PROJECTS/Screenshots/Screenshot 2024-03-23 121606.png)
