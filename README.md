@@ -33,25 +33,25 @@ It does not use any backend technologies or database. All pages are static.
 
 ## Screenshots
 ### Home Page
-![Home Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 123706.png)
+![Home Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 123706.png)
 
 ### Login Page
-![Login Page](MY%20PROJECT/Screenshot/Screenshot 2024-03-23 121606.png)
+![Login Page](MY%20PROJECT/Screenshots/Screenshot 2024-03-23 121606.png)
 
 ### About Us Page
-![About Us Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 123729.png)
+![About Us Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 123729.png)
 
 ### Products Page
-![Products Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 124414.png)
+![Products Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 124414.png)
 
 ### Gallery Page
-![Gallery Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 123759.png)
+![Gallery Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 123759.png)
 
 ### Payment Gatway Page
-![Payment Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 124519.png)
+![Payment Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 124519.png)
 
 ### Contact Page
-![Contact Page](MY%20PROJECT/Screenshot/Screenshot 2024-04-02 123927.png)
+![Contact Page](MY%20PROJECT/Screenshots/Screenshot 2024-04-02 123927.png)
 
 ## Credits
 
